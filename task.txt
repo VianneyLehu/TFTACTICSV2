@@ -1,0 +1,6 @@
+- afficher champions
+- afficher classe 
+- afficher item
+- creer compo 
+- delete compo 
+- donner item champ
